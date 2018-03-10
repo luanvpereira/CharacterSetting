@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">ProfileSetting</string>
+    <string name="label_title">Create your character</string>
+    <string name="label_name">Character name</string>
+    <string name="label_gender">Gender</string>
+    <string name="label_boy">Its a boy</string>
+    <string name="label_girl">Its a girl</string>
+    <string name="label_other">Vittar</string>
+    <string name="label_classe">Classe</string>
+    <string name="anao">Anão</string>
+    <string name="elfo">Elfo</string>
+    <string name="orc">Orc</string>
+    <string name="mago">Mago</string>
+    <string name="guerreiro">Guerreiro</string>
+    <string name="label_damage">Damage</string>
+    <string name="label_create">Create</string>
+</resources>
